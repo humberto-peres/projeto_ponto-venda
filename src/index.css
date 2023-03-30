@@ -1,0 +1,12 @@
+/*Ajustar a páginas*/
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Golos Text', sans-serif;
+}
+
+html, body, #root {
+  background-color: #efefef;
+}

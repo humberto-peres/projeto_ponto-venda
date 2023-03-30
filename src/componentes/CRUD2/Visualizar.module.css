@@ -1,0 +1,28 @@
+.titulo{
+    display: flex;
+    justify-content: space-between;
+    margin:  0 10em auto;
+}
+
+.cad{
+    margin: 2em 10em auto;
+}
+
+.nome{
+    padding: 0.7em;
+    max-width: 40em;
+    background-color: #adb5bd;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.data{
+    max-width: 40em;
+    padding: 0.45em;
+    border-radius: 0;
+    background-color: #fff;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-bottom: 2em;
+}
+

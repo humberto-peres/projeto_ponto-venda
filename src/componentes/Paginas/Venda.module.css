@@ -1,0 +1,115 @@
+.form_control {
+    flex-direction: row;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.primeiro{
+    display: flex;
+    margin-bottom: 2em;    
+}
+
+.form_control label {
+    padding: 0.7em;
+    background-color: gray;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.form_control select{
+    width: 100%;
+    padding: 0.7em;
+    border-radius: 0;
+    border: none;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.form_control input {
+    width: 80%;
+    padding: 0.7em;
+    border: none;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.form_control input::placeholder {
+    color: #7b7b7b;
+}
+
+.corpo{
+    display: block;
+    width: 50%;
+    float: left;
+    border-right: 1px solid #606060;
+}
+
+.lateral{
+    display: block;
+    width: 50%;
+    float: right;
+}
+
+.incluir{
+    width: 100%;
+    padding: 10px;
+    background-color: #0077b6;
+    color: #fff;
+    cursor: pointer;
+}
+
+.concluir{
+    width: 90%;
+    padding: 10px;
+    background-color: #0077b6;
+    color: #fff;
+    margin-left: 3.5em;
+    margin-top: 10em;
+    cursor: pointer;
+}
+
+.incluir:hover, .concluir:hover{
+    font-weight: bold;
+}
+
+.tabela{
+    width: 90%;
+    text-align: left;
+    margin-left: 3em;
+}
+
+.tabela tr th{
+    background-color: #606060;
+    padding: 5px;
+    color:#fff
+}
+
+.imp td{
+    background-color: #606060;
+    padding: 5px;
+    color: #fff;
+}
+
+.prod{
+    background-color: #fff;
+    padding: 5px;
+}
+
+hr{
+    width: 220%;
+    margin-top: 0.5em;
+}
+
+.container{
+    margin-left: 8vw;
+    margin-right: 2vw;
+}
+
+
+
+
+
+
+
+
+

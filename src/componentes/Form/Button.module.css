@@ -1,0 +1,12 @@
+.btn{
+    max-width: 10em;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 12em;
+}
+
+.btn:hover{
+    font-weight: bold;
+    border-color: #00a6fb;
+    background-color: #00a6fb;
+}

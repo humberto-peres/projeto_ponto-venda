@@ -1,0 +1,33 @@
+.btn{
+    background-color: #bfc0c0;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+    color: #000;
+    border: 1px solid #000;
+}
+
+.btn:hover{
+    font-weight: bold;
+}
+
+.visu{
+    background-color: #e5e5e5;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+    color: #000;
+}
+
+.visu:hover{
+    background-color: #495057;
+}
+
+.alt{
+    background-color: #e5e5e5;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+    color: #000;
+}
+
+.alt:hover{
+    background-color: #495057;
+}

@@ -1,0 +1,25 @@
+.form_control {
+    display: flex;
+    flex-direction:column;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    margin-left: 10em;
+
+}
+
+.form_control label {
+    padding: 0.7em;
+    max-width: 40em;
+    background-color: #adb5bd;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.form_control input {
+    max-width: 48em;
+    padding: 0.7em;
+    border-radius: 0;
+    border: none;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}

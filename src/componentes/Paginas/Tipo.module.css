@@ -1,0 +1,41 @@
+.table table{
+    position: block;
+    max-width: 100%;
+    height: 50%;
+    margin-top: 2em;
+    margin: 2em 10em auto;
+}
+
+.table thead tr th{
+    background-color: #ffca3a;
+    padding: 10px;
+    font-size: 20px; 
+}
+
+.btn_tab{
+    text-align: center;
+    width: 500px;
+    background-color: #fff;
+}
+
+.titulo{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10em;
+}
+
+.exc{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e5e5e5;
+    border: none;
+    padding: 11px 20px 11px 20px;
+    color: #000;
+}
+
+.exc:hover{
+    background-color: #495057;
+}
+
+
+
